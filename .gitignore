@@ -1,1 +1,4 @@
 .env
+conversation.py
+data
+docker-compose.yml
